@@ -48,7 +48,7 @@ print("X:\n", X, "\n\nMean:", X.mean(), "\n\nStandard Deviation:", X.std(), "\n\
 ___________________________________________________________________________________________________________________________
 
 ### **DIVISIBLE BY 3 PROBLEM**
-Create the following 10 x 10 ndarray.
+Create the following 10 x 10 ndarray
 ![image](https://github.com/user-attachments/assets/b0f139ce-c29f-491b-86e2-fbdec23d3f07)
 
 which are the squares of the first 100 positive integers.
